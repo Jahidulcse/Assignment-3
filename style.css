@@ -1,0 +1,32 @@
+.bg-header{
+    background-color: #264653;
+}
+
+/* button */
+.btn-bg-color{
+    background-color: #E76F51;
+    
+}
+/* Grayscale */
+.grayscale{
+    filter: grayscale(100%);
+}
+.img-size-happy-client{
+    height: 150px;
+    width: 150px;
+}
+span{
+    color: #E76F51;
+}
+
+.bg-icon{
+    color: #E77C40;
+}
+
+.font-color{
+    color: #23A6F0;
+}
+
+.race-img{
+    height: 273px;
+}
